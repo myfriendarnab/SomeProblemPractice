@@ -21,8 +21,8 @@ namespace async_await
             var p = new Program();
             var t = p.DoSomeAsyncStuff();
             p.DoSomething();
+            Console.WriteLine("Hello World! from caller");
             t.Wait();
-            Console.WriteLine("Hello World!");
         }
 
         internal async Task DoSomeAsyncStuff(){
