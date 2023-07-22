@@ -33,7 +33,16 @@
 			"extensions": [
 				"ms-dotnettools.csharp",
 				"ms-mssql.mssql",
-				"vsls-contrib.gistfs"
+				"vsls-contrib.gistfs",
+				"robbowen.synthwave-vscode",
+				"formulahendry.dotnet-test-explorer",
+				"aaron-bond.better-comments",
+				"ms-dotnettools.csdevkit",
+				"jorgeserrano.vscode-csharp-snippets",
+				"matijarmk.dotnet-core-commands",
+				"editorconfig.editorconfig",
+				"christian-kohler.path-intellisense",
+				"ms-dotnettools.dotnet-interactive-vscode"
 			]
 		}
 	},
