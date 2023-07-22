@@ -17,9 +17,7 @@
             }
         }
 
-        private void RunSpaceMaw()
-        {
-            var spaceMaw = new SpaceMaw();  
-        } 
+        private void RunSpaceMaw() => new SpaceMaw().DisplayOutput();
+
     }
 }

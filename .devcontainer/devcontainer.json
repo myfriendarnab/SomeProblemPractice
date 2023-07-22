@@ -42,7 +42,8 @@
 				"matijarmk.dotnet-core-commands",
 				"editorconfig.editorconfig",
 				"christian-kohler.path-intellisense",
-				"ms-dotnettools.dotnet-interactive-vscode"
+				"ms-dotnettools.dotnet-interactive-vscode",
+				"fudge.auto-using"
 			]
 		}
 	},
